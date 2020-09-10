@@ -5,3 +5,4 @@ Steps in Data Analysis
 
 1. Introduction 
 2. Data Wrangling
+3. Exploratory Data Analysis
